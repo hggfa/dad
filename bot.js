@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 var prefix = "*"
 client.on('ready', () => {
-  client.user.setGame('*help | *invite','https://www.twitch.tv/peery13');
+  client.user.setGame('*help | احللى شوووب','https://www.twitch.tv/peery13');
   console.log('---------------');
   console.log(' Bot Is Online')
   console.log('---------------')
@@ -67,7 +67,7 @@ __~~The King Bot~~__ By: sIMO
 ╚[❖════════════❖]╝
 to enable welcome message do channel name "wlc"
 ==================================================================
-Server support: https://discord.gg/jja9TnU
+Server support: https://discord.gg/feQ7hUk
 ==================================================================
 bot invite link:no sry$
 ==================================================================
@@ -135,7 +135,7 @@ __~~The King Bot~~__ By: sIMO
 ╚[❖════════════❖]╝
 لتفعيل خاصية الترحيب قم بعمل قناة اسمها "wlc"
 ==================================================================
-Server support: https://discord.gg/jja9TnU
+Server support: https://discord.gg/feQ7huk
 bot invite link: sry
 ==================================================================
 `);
@@ -210,7 +210,7 @@ client.on('message', message => {
  
 بامكانك دعوة البوت من هنا
 ry
-Server Support :https://discord.gg/jja9TnU 
+Server Support :https://discord.gg/feQ7hUk
 `);
 
 message.channel.send('**تم الارسال في الخاص**');
@@ -335,7 +335,7 @@ client.on('message', message => {
  
 بامكانك دعوة البوت من هنا
 ry
-invite the bot:https://discordapp.com/oauth2/authorize?client_id=426333345711128596&scope=bot&permissions=387072
+invite the bot:no
 `);
 
 message.channel.send('**تم الارسال في الخاص**');
