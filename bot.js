@@ -882,6 +882,12 @@ client.on('message', message => {
     }
 });
 
+client.on('guildMemberAdd', member=> {
+    member.addRole(member.guild.roles.find("name","member"));
+    });
+
+
+
 client.on('message', message => {
    if (message.content.startsWith("خواطر")) {
                 if(!message.channel.guild) return message.reply('** This command only for servers**');
