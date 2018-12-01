@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 var prefix = "*"
 client.on('ready', () => {
-  client.user.setGame('*help | احللى شوووب','https://www.twitch.tv/peery13');
+  client.user.setGame('قريبا نوصل ل الف','https://www.twitch.tv/peery13');
   console.log('---------------');
   console.log(' Bot Is Online')
   console.log('---------------')
