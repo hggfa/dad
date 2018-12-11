@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 var prefix = "*"
 client.on('ready', () => {
-  client.user.setGame('700 soon','https://www.twitch.tv/peery13');
+  client.user.setGame('10 Invite = 2 cape','https://www.twitch.tv/peery13');
   console.log('---------------');
   console.log(' Bot Is Online')
   console.log('---------------')
