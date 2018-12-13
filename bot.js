@@ -193,7 +193,7 @@ message.channel.send('**تم الارسال في الخاص**');
 
 
 
-client.login('NDI2MTIxMDk2MjI4NjM0NjI1.Dt8tCg.hD4-LO3nGPkrC9HGKVVu8Hy4XXc'); 
+client.login('NDI2MTIxMDk2MjI4NjM0NjI1.DvRNBQ.LEjjRl80aldIpG5GBeHV7fsTW3A'); 
 
 
 
